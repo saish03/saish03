@@ -1,75 +1,109 @@
-👋 Hi, I'm Saish
+<h1 align="center">Hi 👋, I'm Saish Bawake</h1>
+<h3 align="center">AI & Data Science Engineer | Building Intelligent, Data-Driven Systems</h3>
 
-🎓 Artificial Intelligence & Data Science Engineering Student  
-📊 Data Science • Artificial Intelligence • Data Analytics  
-💻 Python Development • Machine Learning • Data Visualization
-
-I am passionate about building data-driven applications and intelligent systems that transform raw data into meaningful insights. My work focuses on machine learning, data analytics, and interactive visualization, with a strong interest in solving real-world problems through technology.
-
-I enjoy developing end-to-end analytical solutions — from data processing and modeling to building deployable applications and interactive dashboards.
-
----
-
-## 🔧 Technical Skills
-
-### Programming
-Python • C++
-
-### Data Science & Analytics
-Pandas • NumPy • Matplotlib • Plotly • Exploratory Data Analysis (EDA)
-
-### Machine Learning
-Scikit-learn • Computer Vision • Model Development
-
-### Frameworks & Tools
-Streamlit • Git • GitHub • Jupyter Notebook
-
-### Other Tools
-Power BI • Data Visualization • Data Processing
+<p align="center">
+  <a href="https://www.linkedin.com/in/saish-bawake-a223a728b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saishbawake04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/saish03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🧠 About Me
 
-### 📊 Data Analytics Dashboard
-🔗 Live App: https://data-analytics-first.streamlit.app/  
-🔗 Repository: https://github.com/saish03/data-analytics-first
+I'm a passionate **Artificial Intelligence & Data Science Engineering student** who loves transforming raw data into meaningful insights and intelligent systems.
 
-An interactive data analytics dashboard built using Streamlit that enables users to explore datasets through dynamic visualizations and insights.
-
-**Technologies:** Python, Pandas, Plotly, Streamlit
-
----
-
-### 🚇 Metro Journey Planner
-🔗 Live App: https://metrojourney.streamlit.app/  
-🔗 Repository: https://github.com/saish03/Metro-Journey-Planner
-
-A Python-based metro route planner that calculates the shortest path between stations using graph algorithms.
-
-**Technologies:** Python, NetworkX, Streamlit
+- 🔭 I build **end-to-end analytical solutions** — from data processing & modeling to deployable apps and interactive dashboards
+- 🤖 Experienced in **Machine Learning**, **Computer Vision**, and **Data Analytics**
+- 📊 I enjoy creating **interactive visualizations** that make complex data intuitive and actionable
+- 🌱 Currently diving deeper into **Deep Learning**, **Data Engineering**, and **Scalable Data Systems**
+- 💡 Always exploring real-world problems that technology can solve
 
 ---
 
-### 🚗 AI-Based Traffic Monitoring System (ANPR & ATCC)
+### 🔧 Tech Stack
 
-Developed an AI-powered traffic monitoring system capable of detecting vehicles and automatically recognizing number plates for intelligent traffic management.
+**Languages**
 
-**Technologies:** Python, Computer Vision, Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Data Science & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Frameworks & Tools**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
-## 🌱 Currently Learning
+### 🚀 Featured Projects
 
-• Advanced Machine Learning  
-• Deep Learning  
-• Data Engineering  
-• Scalable Data Systems
+#### 📊 [Data Analytics Dashboard](https://data-analytics-first.streamlit.app/)
+> An interactive dashboard built with Streamlit for dynamic dataset exploration through rich visualizations and insights.
+
+`Python` `Pandas` `Plotly` `Streamlit` · [Live App](https://data-analytics-first.streamlit.app/) · [Repo](https://github.com/saish03/data-analytics-first)
 
 ---
 
-## 📫 Connect With Me
+#### 🚇 [Metro Journey Planner](https://metrojourney.streamlit.app/)
+> A Python-based metro route planner that computes the shortest path between stations using graph algorithms — fast, accurate, and user-friendly.
 
-💼 LinkedIn: www.linkedin.com/in/saish-bawake-a223a728b  
-📧 Email: saishbawake04@gmail.com  
-🌐 GitHub: https://github.com/saish03
+`Python` `NetworkX` `Streamlit` · [Live App](https://metrojourney.streamlit.app/) · [Repo](https://github.com/saish03/Metro-Journey-Planner)
+
+---
+
+#### 🚗 AI-Based Traffic Monitoring System (ANPR & ATCC)
+> An AI-powered system for real-time vehicle detection and automatic number plate recognition, enabling intelligent traffic management.
+
+`Python` `Computer Vision` `Machine Learning`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saish03&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saish03&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saish03&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- 🤖 Advanced Machine Learning & Deep Learning
+- ⚙️ Data Engineering & Pipeline Design
+- 📦 Scalable Data Systems & Cloud Infrastructure
+
+---
+
+<p align="center">
+  <i>"Turning data into decisions, one model at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saish03&label=Profile%20Views&color=0e75b6&style=flat" alt="saish03" />
+</p>
