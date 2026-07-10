@@ -1,8 +1,8 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:1E1B4B&height=200&section=header&text=SAISH%20BAWAKE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saish+Bawake;AI+%26+Data+Science+Engineer;I+build+real-time+Computer+Vision+systems;Currently+diving+into+LLMs+%2B+RAG" alt="Typing SVG" />
-
-<br>
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/-saish03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saish03)
 [![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saish-bawake-a223a728b)
@@ -12,118 +12,103 @@
 
 <br>
 
-## 👋 About Me
-
-I'm an **AI & Data Science undergraduate** at Dr. D. Y. Patil IEMR, Pune, currently in my final years and hunting for opportunities to build production-grade AI. I care less about a model that scores well in a notebook and more about one that survives contact with the real world — real lighting, real traffic, real latency budgets.
-
-During my internship at **Infosys Springboard**, I built a traffic-monitoring system that read license plates at **~92% accuracy** while running at **20–25 FPS** — fast enough to actually deploy on street-level hardware, not just demo in a slide deck.
-
-- 🔭 Building end-to-end pipelines: detection → tracking → OCR → analytics
-- 🌱 Currently learning **Retrieval-Augmented Generation (RAG)** and LLM-powered workflows
-- ⚡ Optimizing models for the edge — quantization, pruning, and latency hacking
-- 📫 Reach me at **saishbawake04@gmail.com**
+```bash
+saish@pune:~$ whoami
+```
+> Final-year AI & Data Science student who'd rather ship a model that survives real traffic,
+> real lighting, and real latency budgets than one that only looks good in a notebook.
+> Currently obsessed with making Computer Vision systems fast enough to actually deploy.
 
 <br>
 
-## 🛠️ Languages I Speak
+## 🕓 Timeline
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp" />
-</p>
-
-## 🧠 AI / ML & Computer Vision
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48"/>
-</p>
-
-## 📊 Data & Visualization
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48"/>
-</p>
-
-## 🧰 Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="48"/>
-</p>
-
-## 🎯 Core Concepts
-
-<p align="left">
-<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object_Detection-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Object_Tracking-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Neural_Networks-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM_Workflows-7C3AED?style=for-the-badge"/>
-</p>
+<table border="0">
+<tr><td valign="top">🟣</td><td><b>Jan 2026</b> — Built <b>Metro Journey Planner</b>, a Dijkstra-powered route engine covering 100+ Mumbai & Pune metro stations, answering queries in under 50ms.</td></tr>
+<tr><td valign="top">🟣</td><td><b>Nov 2025 – Jan 2026</b> — AI Intern at <b>Infosys Springboard</b>. Shipped a real-time ANPR + Traffic Congestion Control system: ~92% plate accuracy, 20–25 FPS, −30% false alerts, −20% latency via quantization & pruning.</td></tr>
+<tr><td valign="top">🟣</td><td><b>Now</b> — Learning Retrieval-Augmented Generation (RAG) and LLM-powered workflows.</td></tr>
+<tr><td valign="top">🟣</td><td><b>2027</b> — Graduating with a B.E. in Artificial Intelligence & Data Science, Dr. D. Y. Patil IEMR, Pune.</td></tr>
+</table>
 
 <br>
 
-## 🚀 Projects
+## ⚙️ My Stack, In Motion
 
-### 🚦 AI Traffic Monitoring — ANPR & ATCC
-Real-time license plate recognition and congestion control system, built end-to-end during my Infosys Springboard internship. Combines object detection, multi-object tracking, and OCR into a single live pipeline.
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp" height="50"/>
 
-<p align="left">
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/>
-<img src="https://img.shields.io/badge/EasyOCR-4285F4?style=flat-square"/>
-<img src="https://skillicons.dev/icons?i=opencv,python" height="28"/>
-</p>
+**AI / ML & Computer Vision**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" height="50"/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" height="50"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="50"/>
+<img src="https://img.shields.io/badge/EasyOCR-4285F4?style=for-the-badge" height="50"/>
 
-📌 ~92% plate recognition accuracy &nbsp;·&nbsp; 20–25 FPS on standard hardware &nbsp;·&nbsp; −30% false congestion alerts &nbsp;·&nbsp; −20% inference latency via quantization & pruning
+**Data & Visualization**
+<br>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" height="50"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50"/>
 
----
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="50"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="50"/>
 
-### 🚇 [Metro Journey Planner](https://metrojourney.streamlit.app/)
-A graph-based route optimizer spanning 100+ stations across Mumbai and Pune's metro networks. Uses Dijkstra's Algorithm with weighted edges for distance and interchange cost.
+<br>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="28"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Graph_Algorithms-333?style=flat-square"/>
-</p>
+## 📂 Featured Builds
 
-📌 100+ stations mapped &nbsp;·&nbsp; O(E log V) pathfinding &nbsp;·&nbsp; <50ms response time &nbsp;·&nbsp; [🔗 Live demo](https://metrojourney.streamlit.app/)
+<details open>
+<summary><b>🚦 AI Traffic Monitoring — ANPR & ATCC</b></summary>
+<br>
 
----
+Real-time license plate recognition and congestion control, built end-to-end during my Infosys Springboard internship — object detection, multi-object tracking, OCR, and analytics fused into one live pipeline.
 
-### 📊 [Data Analytics Dashboard](https://data-analytics-first.streamlit.app/)
-An interactive Streamlit app for exploring any dataset through dynamic charts, filters, and instant insights.
+`~92% accuracy` · `20–25 FPS` · `−30% false alerts` · `−20% latency`
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,pandas" height="28"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,opencv" height="35"/> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/> <img src="https://img.shields.io/badge/EasyOCR-4285F4?style=flat-square"/>
 
-📌 [🔗 Live demo](https://data-analytics-first.streamlit.app/)
+</details>
 
----
+<details>
+<summary><b>🚇 Metro Journey Planner</b> — <a href="https://metrojourney.streamlit.app/">live demo →</a></summary>
+<br>
 
-### 🔎 [Research Assistant](https://github.com/saish03/Research_Assistant)
+Graph-based route optimizer across 100+ Mumbai & Pune metro stations. Dijkstra's Algorithm with weighted edges for distance and interchange cost; O(E log V) pathfinding.
+
+`100+ stations` · `<50ms per query`
+
+<img src="https://skillicons.dev/icons?i=python" height="35"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Graph_Algorithms-333?style=flat-square"/>
+
+</details>
+
+<details>
+<summary><b>📊 Data Analytics Dashboard</b> — <a href="https://data-analytics-first.streamlit.app/">live demo →</a></summary>
+<br>
+
+Interactive Streamlit app for exploring any dataset through dynamic charts, filters, and instant insights.
+
+<img src="https://skillicons.dev/icons?i=python,pandas" height="35"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+</details>
+
+<details>
+<summary><b>🔎 Research Assistant</b></summary>
+<br>
+
 Exploring LLM-powered retrieval workflows for faster, more grounded research.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="28"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-333?style=flat-square"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python" height="35"/> <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-333?style=flat-square"/>
+
+</details>
 
 <br>
 
-## 🎓 Education
+## 🎓 Credentials
 
-**B.E. in Artificial Intelligence and Data Science**
-Dr. D. Y. Patil Institute of Engineering Management and Research, Pune · CGPA 7.08/10 · Expected 2027
-
-**Certification:** Infosys Springboard — Artificial Intelligence Premier Certificate
+🏫 **B.E. in Artificial Intelligence & Data Science** — Dr. D. Y. Patil IEMR, Pune · CGPA 7.08/10 · Expected 2027
+📜 **Infosys Springboard** — Artificial Intelligence Premier Certificate
 
 <br>
 
@@ -145,9 +130,5 @@ Dr. D. Y. Patil Institute of Engineering Management and Research, Pune · CGPA 7
 <br>
 
 <div align="center">
-
-### 💭 "Make it accurate. Then make it fast enough to matter."
-
-<img src="https://komarev.com/ghpvc/?username=saish03&label=Profile+Views&color=7C3AED&style=for-the-badge" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:7C3AED&height=120&section=footer"/>
 </div>
