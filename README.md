@@ -69,7 +69,7 @@ Exploring LLM-powered retrieval workflows for faster, grounded research.
 
 ### Education
 
-B.E. in Artificial Intelligence and Data Science — Dr. D. Y. Patil Institute of Engineering Management and Research, Pune. CGPA 7.08/10, expected 2027.
+B.E. in Artificial Intelligence and Data Science — Dr. D. Y. Patil Institute of Engineering Management and Research, Pune. Expected 2027.
 Certification: Infosys Springboard — Artificial Intelligence Premier Certificate.
 
 <br>
