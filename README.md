@@ -1,140 +1,153 @@
 <div align="center">
 
-# Saish Bawake
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saish+Bawake;AI+%26+Data+Science+Engineer;I+build+real-time+Computer+Vision+systems;Currently+diving+into+LLMs+%2B+RAG" alt="Typing SVG" />
 
-**Turning raw data into intelligent, real-time systems.**
+<br>
 
-`Pune, India` · `AI & Data Science Undergraduate` · `Class of 2027`
-
-[![Portfolio](https://img.shields.io/badge/GitHub-saish03-24292e?style=flat-square&logo=github)](https://github.com/saish03)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saish-bawake-a223a728b)
-[![Email](https://img.shields.io/badge/Say%20Hi-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saishbawake04@gmail.com)
+[![GitHub](https://img.shields.io/badge/-saish03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saish03)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saish-bawake-a223a728b)
+[![Gmail](https://img.shields.io/badge/-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saishbawake04@gmail.com)
 
 </div>
 
 <br>
 
-## ⚡ At a Glance
+## 👋 About Me
 
-| | |
-|---|---|
-| 🎓 **Studying** | B.E. Artificial Intelligence & Data Science, Dr. D. Y. Patil IEMR, Pune (CGPA 7.08/10) |
-| 🧪 **Recently** | AI Intern @ Infosys Springboard — built a real-time traffic AI system |
-| 🎯 **Focused on** | Computer Vision, Deep Learning, and LLM / RAG workflows |
-| 🛠️ **Right now** | Shipping graph algorithms and Streamlit apps people actually use |
+I'm an **AI & Data Science undergraduate** at Dr. D. Y. Patil IEMR, Pune, currently in my final years and hunting for opportunities to build production-grade AI. I care less about a model that scores well in a notebook and more about one that survives contact with the real world — real lighting, real traffic, real latency budgets.
 
-<br>
+During my internship at **Infosys Springboard**, I built a traffic-monitoring system that read license plates at **~92% accuracy** while running at **20–25 FPS** — fast enough to actually deploy on street-level hardware, not just demo in a slide deck.
 
-## 🧬 How I Work
-
-```
-raw signal  →  model  →  optimization  →  real-world deployment
-```
-
-I don't stop at a notebook that "works." My internship project pushed accuracy to ~92%,
-cut false alerts by ~30%, and still had to hit 20–25 FPS on ordinary hardware — because a
-smart-city system that can't run in real time isn't actually smart. That mindset — *make it
-accurate, then make it fast enough to matter* — carries into everything below.
+- 🔭 Building end-to-end pipelines: detection → tracking → OCR → analytics
+- 🌱 Currently learning **Retrieval-Augmented Generation (RAG)** and LLM-powered workflows
+- ⚡ Optimizing models for the edge — quantization, pruning, and latency hacking
+- 📫 Reach me at **saishbawake04@gmail.com**
 
 <br>
 
-## 🏗️ What I've Built
+## 🛠️ Languages I Speak
 
-<table>
-<tr>
-<td width="60%">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
 
-**🚦 AI Traffic Monitoring System — ANPR + ATCC**
-Real-time license plate recognition and congestion control, built end-to-end during my Infosys internship.
+## 🧠 AI / ML & Computer Vision
 
-</td>
-<td>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48"/>
+</p>
 
-`YOLOv8` `EasyOCR` `OpenCV`
-**~92%** plate accuracy
-**20–25** FPS on standard hardware
-**−30%** false congestion alerts
+## 📊 Data & Visualization
 
-</td>
-</tr>
-<tr>
-<td>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48"/>
+</p>
 
-**🚇 [Metro Journey Planner](https://metrojourney.streamlit.app/)**
-Dijkstra-powered route optimizer across 100+ Mumbai & Pune metro stations, live on Streamlit.
+## 🧰 Tools & Platforms
 
-</td>
-<td>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="48"/>
+</p>
 
-`Python` `Graph Theory` `Streamlit`
-**100+** stations mapped
-**<50ms** per query
-[→ Try it live](https://metrojourney.streamlit.app/)
+## 🎯 Core Concepts
 
-</td>
-</tr>
-<tr>
-<td>
-
-**📊 [Data Analytics Dashboard](https://data-analytics-first.streamlit.app/)**
-Interactive Streamlit app for exploring any dataset through dynamic charts and filters.
-
-</td>
-<td>
-
-`Pandas` `Plotly` `Streamlit`
-[→ Try it live](https://data-analytics-first.streamlit.app/)
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🔎 [Research Assistant](https://github.com/saish03/Research_Assistant)**
-Exploring LLM-powered retrieval workflows for faster, grounded research.
-
-</td>
-<td>
-
-`Python` `LLMs` `RAG`
-
-</td>
-</tr>
-</table>
+<p align="left">
+<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object_Detection-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Object_Tracking-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neural_Networks-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Workflows-7C3AED?style=for-the-badge"/>
+</p>
 
 <br>
 
-## 🧰 Toolbox
+## 🚀 Projects
 
-<table>
-<tr><td><b>Languages</b></td><td>Python · C++</td></tr>
-<tr><td><b>Deep Learning / CV</b></td><td>PyTorch · OpenCV · YOLOv8 · EasyOCR · Hugging Face Transformers</td></tr>
-<tr><td><b>Data & ML</b></td><td>Scikit-learn · NumPy · Pandas · SciPy · Matplotlib · Seaborn</td></tr>
-<tr><td><b>Concepts</b></td><td>Object Detection · Multi-Object Tracking · Neural Networks · RAG · LLM Workflows</td></tr>
-<tr><td><b>Platforms</b></td><td>Git & GitHub · VS Code · Jupyter · Google Colab · Power BI</td></tr>
-</table>
+### 🚦 AI Traffic Monitoring — ANPR & ATCC
+Real-time license plate recognition and congestion control system, built end-to-end during my Infosys Springboard internship. Combines object detection, multi-object tracking, and OCR into a single live pipeline.
+
+<p align="left">
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/>
+<img src="https://img.shields.io/badge/EasyOCR-4285F4?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=opencv,python" height="28"/>
+</p>
+
+📌 ~92% plate recognition accuracy &nbsp;·&nbsp; 20–25 FPS on standard hardware &nbsp;·&nbsp; −30% false congestion alerts &nbsp;·&nbsp; −20% inference latency via quantization & pruning
+
+---
+
+### 🚇 [Metro Journey Planner](https://metrojourney.streamlit.app/)
+A graph-based route optimizer spanning 100+ stations across Mumbai and Pune's metro networks. Uses Dijkstra's Algorithm with weighted edges for distance and interchange cost.
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="28"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Graph_Algorithms-333?style=flat-square"/>
+</p>
+
+📌 100+ stations mapped &nbsp;·&nbsp; O(E log V) pathfinding &nbsp;·&nbsp; <50ms response time &nbsp;·&nbsp; [🔗 Live demo](https://metrojourney.streamlit.app/)
+
+---
+
+### 📊 [Data Analytics Dashboard](https://data-analytics-first.streamlit.app/)
+An interactive Streamlit app for exploring any dataset through dynamic charts, filters, and instant insights.
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pandas" height="28"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+📌 [🔗 Live demo](https://data-analytics-first.streamlit.app/)
+
+---
+
+### 🔎 [Research Assistant](https://github.com/saish03/Research_Assistant)
+Exploring LLM-powered retrieval workflows for faster, more grounded research.
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="28"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-333?style=flat-square"/>
+</p>
 
 <br>
 
-## 📡 GitHub Signal
+## 🎓 Education
+
+**B.E. in Artificial Intelligence and Data Science**
+Dr. D. Y. Patil Institute of Engineering Management and Research, Pune · CGPA 7.08/10 · Expected 2027
+
+**Certification:** Infosys Springboard — Artificial Intelligence Premier Certificate
+
+<br>
+
+## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saish03&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saish03&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saish03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saish03&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saish03&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saish03&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
 <br>
 
-## 🧭 Currently Exploring
-
-Generative AI architectures · Retrieval-Augmented Generation · edge-optimized model deployment (quantization & pruning) · scalable data pipelines
-
-<br>
-
 <div align="center">
 
-*Building things that need to be right — and fast enough to ship.*
+### 💭 "Make it accurate. Then make it fast enough to matter."
 
-<img src="https://komarev.com/ghpvc/?username=saish03&label=Profile+Views&color=blueviolet&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=saish03&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 
 </div>
