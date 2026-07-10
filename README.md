@@ -84,3 +84,7 @@ Certification: Infosys Springboard — Artificial Intelligence Premier Certifica
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saish03&theme=default&hide_border=true" />
 </div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saish03&theme=minimal&hide_border=true" width="95%"/>
+</div>
