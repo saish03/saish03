@@ -1,90 +1,240 @@
 <div align="center">
 
-### Saish Bawake
+# 👋 Hi, I'm Saish Bawake
 
-AI & Data Science Engineer, focused on Computer Vision and applied Deep Learning
+### AI & Data Science Engineer • Machine Learning • Computer Vision • Applied AI
 
-[GitHub](https://github.com/saish03) · [LinkedIn](https://www.linkedin.com/in/saish-bawake-a223a728b) · [Email](mailto:saishbawake04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-saish03-181717?style=for-the-badge\&logo=github)](https://github.com/saish03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Profile Views](https://komarev.com/ghpvc/?username=saish03\&style=for-the-badge\&color=blueviolet)](https://github.com/saish03)
 
 </div>
 
-<br>
+---
 
-I'm a final-year AI & Data Science student building real-time AI systems — from model training to deployment. During my internship at Infosys Springboard, I built a traffic monitoring system that recognized license plates at ~92% accuracy while running at 20–25 FPS on standard hardware. I care about models that hold up outside the notebook.
+## 🖥️ `saish.json`
 
-<br>
+```json
+{
+  "name": "Saish Bawake",
+  "role": [
+    "AI Engineer",
+    "Data Scientist",
+    "ML Engineer"
+  ],
+  "currently": "B.E. Artificial Intelligence & Data Science",
+  "location": "Pune, India 🇮🇳",
+  "focus": [
+    "Computer Vision",
+    "Deep Learning",
+    "Applied AI",
+    "RAG Systems",
+    "LLM Applications"
+  ]
+}
+```
 
-**Languages**
+---
 
-<img src="https://skillicons.dev/icons?i=python,cpp" height="40"/>
+## 🧠 About Me
 
-**AI / ML and Computer Vision**
+I'm an **Artificial Intelligence & Data Science Engineering student** passionate about building practical, end-to-end AI systems.
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" height="40"/>
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" height="40"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="40"/>
-<img src="https://img.shields.io/badge/EasyOCR-4285F4?style=flat-square" height="40"/>
+I enjoy working across the complete AI lifecycle — from **data preparation and model training to deployment and real-world applications**.
 
-**Data and Visualization**
+During my **Infosys Springboard AI internship**, I worked on an intelligent traffic monitoring system combining **ANPR, object detection, tracking and OCR**.
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" height="40"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40"/>
+> I don't just train models. I build systems that are designed to work outside the notebook.
 
-**Tools and Platforms**
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="40"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" height="40"/>
+## 🚀 What I'm Currently Exploring
 
-<br>
+* 🤖 Applied Artificial Intelligence
+* 👁️ Computer Vision & Deep Learning
+* 🧠 LLM-powered applications
+* 🔎 Retrieval-Augmented Generation (RAG)
+* ⚙️ AI pipelines & model deployment
+* 📊 Data Analytics & Visualization
+* 🌐 AI-powered full-stack applications
 
-### Projects
+---
 
-**AI Traffic Monitoring — ANPR and ATCC**
-Real-time license plate recognition and congestion control, built during my Infosys Springboard internship. Combines object detection, multi-object tracking, and OCR in a single pipeline. ~92% plate accuracy, 20–25 FPS, 30% fewer false congestion alerts, 20% lower inference latency after quantization and pruning.
-<br>
-<img src="https://skillicons.dev/icons?i=python,opencv" height="30"/>
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" height="30"/>
-<img src="https://img.shields.io/badge/EasyOCR-4285F4?style=flat-square" height="30"/>
+## 🛠️ Tech Stack
 
-**[Metro Journey Planner](https://metrojourney.streamlit.app/)**
-Graph-based route optimizer covering 100+ Mumbai and Pune metro stations. Uses Dijkstra's Algorithm with weighted edges for distance and interchange cost, returning results in under 50ms.
-<br>
-<img src="https://skillicons.dev/icons?i=python" height="30"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="30"/>
+### 👨‍💻 Languages
 
-**[Data Analytics Dashboard](https://data-analytics-first.streamlit.app/)**
-Interactive Streamlit app for exploring any dataset through dynamic charts and filters.
-<br>
-<img src="https://skillicons.dev/icons?i=python,pandas" height="30"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="30"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
-**[Research Assistant](https://github.com/saish03/Research_Assistant)**
-Exploring LLM-powered retrieval workflows for faster, grounded research.
-<br>
-<img src="https://skillicons.dev/icons?i=python" height="30"/>
-<img src="https://img.shields.io/badge/RAG-333333?style=flat-square" height="30"/>
+### 🤖 AI / ML / Computer Vision
 
-<br>
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square\&logo=github\&logoColor=white)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-6C63FF?style=flat-square)
 
-### Education
+### 📊 Data & Visualization
 
-B.E. in Artificial Intelligence and Data Science — Dr. D. Y. Patil Institute of Engineering Management and Research, Pune. Expected 2027.
-Certification: Infosys Springboard — Artificial Intelligence Premier Certificate.
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=python\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square\&logo=plotly\&logoColor=white)
 
-<br>
+### 🌐 Development & Deployment
 
-### GitHub Stats
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+### 🚦 AI Traffic Monitoring — ANPR & ATCC
+
+An intelligent traffic monitoring system developed during my **Infosys Springboard AI internship**.
+
+**Highlights**
+
+* Automatic Number Plate Recognition
+* Vehicle detection and tracking
+* OCR-based number plate recognition
+* Traffic violation monitoring
+* Real-time processing pipeline
+* Model optimization for improved inference performance
+
+**Tech:** `Python` `YOLO` `OpenCV` `EasyOCR` `Deep Learning`
+
+🔗 [View Repository](https://github.com/saish03/ANPR_INFOSYS_INTERNSHIP)
+
+---
+
+### 🚇 Metro Journey Planner
+
+A graph-based route optimization application for **Mumbai and Pune Metro**.
+
+**Highlights**
+
+* Dijkstra's shortest-path algorithm
+* 100+ metro stations
+* Weighted route calculation
+* Interchange-aware route optimization
+* Interactive Streamlit interface
+
+**Tech:** `Python` `Dijkstra` `Streamlit` `Folium`
+
+🌐 [Live App](https://metrojourney.streamlit.app/)
+🔗 [View Repository](https://github.com/saish03/METRO-JOURNEY-PLANNER)
+
+---
+
+### 📊 Data Analytics Dashboard
+
+An interactive Streamlit dashboard designed to explore datasets using dynamic visualizations and filters.
+
+**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `Streamlit`
+
+🌐 [Live App](https://data-analytics-first.streamlit.app/)
+🔗 [View Repository](https://github.com/saish03/data-analytics-first)
+
+---
+
+### 🔎 Research Assistant
+
+Exploring **LLM-powered retrieval workflows** for faster and more grounded research.
+
+**Focus:** `LLMs` `RAG` `Retrieval` `AI Research`
+
+🔗 [View Repository](https://github.com/saish03/Research_Assistant)
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saish03&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saish03&layout=compact&theme=default&hide_border=true" height="165"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saish03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saish03&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saish03&theme=default&hide_border=true" />
-</div>
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saish03&theme=minimal&hide_border=true" width="95%"/>
+
+<img src="https://streak-stats.demolab.com?user=saish03&theme=tokyonight&hide_border=true" />
+
 </div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/saish03/saish03/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎓 Education
+
+**B.E. — Artificial Intelligence & Data Science**
+Dr. D. Y. Patil Institute of Engineering Management and Research, Pune
+**Expected Graduation:** 2027
+
+**Certification:** Infosys Springboard — Artificial Intelligence Premier Certificate
+
+---
+
+## 💼 Experience
+
+### Infosys Springboard — AI Intern
+
+Worked on an AI-based traffic monitoring project involving:
+
+* Automatic Number Plate Recognition
+* Computer Vision
+* Object Detection
+* Multi-object Tracking
+* OCR
+* Real-time AI processing
+* Model optimization and deployment
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in **AI/ML projects, research, internships, collaborations and interesting technical problems**.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-saish03-181717?style=for-the-badge\&logo=github)](https://github.com/saish03)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, consider starring my repositories!
+
+**Building AI. Solving Problems. Learning Every Day. 🚀**
+
+</div>
+::: ​​
