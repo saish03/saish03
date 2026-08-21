@@ -5,7 +5,7 @@
 ```json
 {
   "name": "Saish Bawake",
-  "role": "AI & ML Engineer",
+  "role": "AI & Data Science Engineer",
   "location": "Pune, India 🇮🇳",
   "focus": [
     "Artificial Intelligence",
